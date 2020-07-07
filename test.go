@@ -73,3 +73,7 @@ func ExportCsv(filePath string, data [][]string) {
 	w.WriteAll(data)
 	w.Flush()
 }
+
+func Fun() {
+	fmt.Println("hahahahahahahahaha...")
+}
