@@ -1,3 +1,3 @@
-module mf.com/test
+module test
 
 go 1.14
