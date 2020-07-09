@@ -20,7 +20,7 @@ func (s score) getTotalScore() int {
 	return s.mathScore + s.englistScore
 }
 
-func main() {
+func Exec() {
 
 	socreList := []score{
 		{1001, "John", 85, 90, 0},
